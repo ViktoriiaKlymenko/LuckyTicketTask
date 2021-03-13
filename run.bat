@@ -1,1 +1,0 @@
-start "" C:\LuckyTicket\LuckyTicket\bin\Release\net5.0\LuckyTicket.exe
